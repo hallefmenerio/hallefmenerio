@@ -10,7 +10,7 @@ Eu sou programador Front End, atualmente estou aprendendo e criando projetos com
  
 
   </div>
-<h1>Meu contatos</h1>
+<h1>Meus Contatos</h1>
 
 <div style="display: inline_block">
   <a href="https://www.linkedin.com/in/hallef-menerio-226717241" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -18,7 +18,7 @@ Eu sou programador Front End, atualmente estou aprendendo e criando projetos com
 
 </div>
 
-<h4>📈Git status</h4>
+<h4>📈Git Status</h4>
 
 ![Hallef status](https://github-readme-stats.vercel.app/api?username=HallefMenerio&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HallefMenerio&showicons=true&theme=dracula)
